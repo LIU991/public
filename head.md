@@ -13,4 +13,7 @@ myfirst
 4. a numbered list
 
  **bolded text**
+ 
  _italicized text_
+
+~~strikethrough text~~
