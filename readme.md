@@ -6,4 +6,4 @@ picture.md是图片的引用文件
 
 th.jpg是链接到网站的图片
 
-[header.md](https://github.com/LIU991/public/edit/main/header.md)
+[head.md](https://github.com/LIU991/public/edit/main/head.md)
